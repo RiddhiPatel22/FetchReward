@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FetchReward</string>
+    <string name="title_activity_expandable_list_screen">ExpandableListScreen</string>
+</resources>
